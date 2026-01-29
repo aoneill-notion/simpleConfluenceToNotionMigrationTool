@@ -1,0 +1,7 @@
+/26012025-1kSpace
+/__pycache__/
+*.pyc 
+.env
+tmp/
+node_modules/
+/.DS_Store
